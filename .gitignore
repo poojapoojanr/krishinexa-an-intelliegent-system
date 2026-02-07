@@ -1,0 +1,138 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+.turbo/
+
+# Environment variables - SECURE
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+.env.staging
+.env.secret
+.env.private
+*.env.backup
+.envrc
+
+# Secrets and credentials - NEVER TRACK
+secrets/
+secrets/**
+**/secrets/
+**/secrets/**
+*.pem
+*.key
+*.p12
+*.p8
+*service-account*.json
+*firebase-adminsdk*.json
+studio-8615856330-b82f0-firebase-adminsdk-fbsvc-db33029df9.json
+firebase_admin_init.py
+.env.production
+.env.staging
+config.json
+config.ts
+firebase-config.ts
+**/config.ts
+**/firebase/config.ts
+credentials.json
+service-account.json
+private-key.json
+api-keys.json
+*.secret
+*-secret.json
+*-secrets.json
+*.token
+auth-config.*
+database-config.*
+**/secrets.*
+
+# AI/ML API Keys and Secrets
+groq-api-key.*
+openai-api-key.*
+openweather-api-key.*
+huggingface-api-key.*
+google-api-key.*
+*.api-key
+api-keys/
+api-keys/**
+**/api-keys/
+**/api-keys/**
+
+
+# Build / artifacts
+artifacts/
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Large ML models
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.npz
+*.pb
+*.csv
+*.bak
+
+# Unused files - DO NOT TRACK
+unused_files/
+unused_files/**
+**/unused_files/
+**/unused_files/**
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+.tsbuildinfo
+
+# Firebase
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+firebase-debug.*.log
+.firebase/
+
+# Testing
+coverage/
+.nyc_output/
+__tests__/__pycache__/
+
+
+# ML datasets (DO NOT track)
+ml-backend/app/PlantVillage/
+ml-backend/app/Data
+ml-backend/app/disease/__pycache__/
+ml-backend/app/__pycache__/
+ml-backend/app/plant_disease_mobilenetv2.h5
+ml-backend/app/*.h5
+ml-backend/app/*.joblib
+ml-backend/app/*.pkl
+ml-backend/app/*.npz
+ml-backend/app/*.pb
+ml-backend/app/*.csv
+ml-backend/app/*.pt
+ml-backend/app/*.pth
+ml-backend/app/*.md
+ml-backend/app/*.ipynb
+patches/*.patch

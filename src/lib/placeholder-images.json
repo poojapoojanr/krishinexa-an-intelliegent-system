@@ -1,0 +1,72 @@
+{
+  "placeholderImages": [
+    { "id": "machinery-tractor", "description": "Tractor image placeholder" },
+    { "id": "machinery-rotavator", "description": "Rotavator image placeholder" },
+    { "id": "machinery-harvester", "description": "Harvester image placeholder" },
+    { "id": "machinery-seeddrill", "description": "Seed Drill image placeholder" },
+    { "id": "machinery-powertiller", "description": "Power Tiller image placeholder" },
+    { "id": "machinery-baler", "description": "Baler image placeholder" },
+    { "id": "machinery-sprayer", "description": "Sprayer image placeholder" },
+    { "id": "machinery-plough", "description": "Plough image placeholder" },
+    { "id": "machinery-cultivator", "description": "Cultivator image placeholder" },
+    { "id": "machinery-disharrow", "description": "Disc Harrow image placeholder" }
+  ]
+}
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjUwMjYxNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "farm-1",
+      "description": "Lush green farm",
+      "imageUrl": "https://images.unsplash.com/photo-1647879826700-cfc5fd9d9a31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxncmVlbiUyMGZpZWxkfGVufDB8fHx8MTc2NTAwNTE1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green field"
+    },
+    {
+      "id": "farm-2",
+      "description": "Farm with a tractor",
+      "imageUrl": "https://images.unsplash.com/photo-1507662228758-08d030c4820b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYXJtJTIwdHJhY3RvcnxlbnwwfHx8fDE3NjUwOTQ0NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm tractor"
+    },
+    {
+      "id": "farm-3",
+      "description": "Rows of crops on a farm",
+      "imageUrl": "https://images.unsplash.com/photo-1724531281596-cfae90d5a082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JvcCUyMHJvd3N8ZW58MHx8fHwxNzY1MDk0NDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crop rows"
+    },
+    {
+      "id": "diseased-leaf-1",
+      "description": "A leaf with signs of a plant disease",
+      "imageUrl": "https://images.unsplash.com/photo-1760768334700-f2ccf065f211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaXNlYXNlZCUyMGxlYWZ8ZW58MHx8fHwxNzY0OTk0MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "diseased leaf"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "A placeholder image of a map",
+      "imageUrl": "https://images.unsplash.com/photo-1577086664693-894d8405334a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYXAlMjBpbGx1c3RyYXRpb258ZW58MHx8fHwxNzY1MDU3NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map illustration"
+    },
+    {
+      "id": "machinery-tractor",
+      "description": "A modern red tractor in a field",
+      "imageUrl": "https://images.unsplash.com/photo-1620488399436-b1a3d92c9c7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmFjdG9yfGVufDB8fHx8MTc2NTE4NTA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red tractor"
+    },
+    {
+      "id": "machinery-rotavator",
+      "description": "A rotavator attachment for a tractor",
+      "imageUrl": "https://images.unsplash.com/photo-1628269555178-5a52321475c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbG93fGVufDB8fHx8MTc2NTE4NTA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm plow"
+    },
+    {
+      "id": "machinery-harvester",
+      "description": "A large combine harvester in a wheat field",
+      "imageUrl": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXJ2ZXN0ZXJ8ZW58MHx8fHwxNzY1MTg1MDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "combine harvester"
+    }
+  ]
+}

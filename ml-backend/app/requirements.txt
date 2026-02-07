@@ -1,0 +1,26 @@
+# -------- Core Backend --------
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# -------- ML / Data --------
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+
+# -------- Image Processing --------
+Pillow
+
+# -------- External Services --------
+requests
+redis
+firebase-admin
+
+# -------- Google Earth Engine --------
+earthengine-api
+
+# -------- Scheduling & Utilities --------
+schedule
