@@ -212,9 +212,7 @@ We welcome contributions! Here's how to get started:
 - Authentication is handled through Firebase
 - Input validation on all endpoints
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
